@@ -1,0 +1,14 @@
+info: Server running on port 4000
+info: Server running on port 4000
+info: Server running on port 4000
+info: [object Object]
+info: Server running on port 4000
+info: [:mydate] :method :url :status :res[content-length] - :remote-addr - :response-time ms
+info: Server running on port 4000
+info: [:mydate] :method :url :status :res[content-length] - :remote-addr - :response-time ms
+info: Server running on port 4000
+{"message":"[:mydate] :method :url :status :res[content-length] - :remote-addr - :response-time ms","level":"info"}
+{"message":"Server running on port 4000","level":"info"}
+2021-03-26T13:11:50.575Z info Server running on port 4000
+2021-03-26T13:12:44.523Z info : Server running on port 4000
+2021-03-26T13:13:36.701Z info : Server running on port 4000
